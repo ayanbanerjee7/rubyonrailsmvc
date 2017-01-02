@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  root "test#index"
+  root "subjects#index"
   
   resources :subjects do
     member do
