@@ -20,3 +20,5 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
+
+![solarized palette](https://github.com/altercation/solarized/raw/master/img/solarized-palette.png)
