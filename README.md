@@ -21,4 +21,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-![solarized palette](https://github.com/altercation/solarized/raw/master/img/solarized-palette.png)
+![solarized palette](/blob/master/public/userlist.png)
