@@ -21,4 +21,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-![solarized palette](/blob/master/public/userlist.png)
+![solarized palette](/public/userlist.png)
